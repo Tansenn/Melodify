@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Music Management System\\LoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|d:\\music management system\\loginform\\loginform\\premiumplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiumplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|d:\\music management system\\loginform\\loginform\\premiumplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiumplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiumprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiumprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiummainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiummainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|d:\\music management system\\loginform\\loginform\\paymentvalidation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\paymentvalidation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|d:\\music management system\\loginform\\loginform\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\usermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|d:\\music management system\\loginform\\loginform\\total payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\total payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiummainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiummainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiummainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiummainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\usermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\usermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Music Management System\\LoginForm\\SQL_Music\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL_Music\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\userprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\userprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiumprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiumprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\premiumprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\premiumprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|D:\\Music Management System\\LoginForm\\loginform\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\Melodify.csproj|solutionrelative:loginform\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\LoginForm.csproj|D:\\Music Management System\\LoginForm\\loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7449B90C-B13D-4B67-973D-C9FD95A76175}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\bjezsrcu..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\nfpugpel..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Music Management System\\LoginForm\\LoginForm\\Profile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginForm\\Profile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Music Management System\\LoginForm\\LoginForm\\AdminForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginForm\\AdminForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Music Management System\\LoginForm\\loginform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Music Management System\\LoginForm\\SQL_Music\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL_Music\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Music Management System\\LoginForm\\SQL_Music\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL_Music\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Form1.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.cs [Design]",
+              "RelativeToolTip": "LoginForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:00:07.743Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Form1.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.cs",
+              "RelativeToolTip": "LoginForm\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:44:41.389Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PremiumUser.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumUser.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumUser.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumUser.cs [Design]",
+              "RelativeToolTip": "LoginForm\\PremiumUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:56:43.251Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PremiumMainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumMainForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumMainForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumMainForm.cs [Design]",
+              "RelativeToolTip": "LoginForm\\PremiumMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:10:48.058Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\RegistrationForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\RegistrationForm.cs",
+              "RelativeToolTip": "LoginForm\\RegistrationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:28:56.295Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PremiumMainForm.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumMainForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumMainForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumMainForm.cs",
+              "RelativeToolTip": "LoginForm\\PremiumMainForm.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAuwOsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:20:11.383Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\SQL_Music\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQL_Music\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-29T20:03:35.954Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\UserProfile.cs",
+              "RelativeDocumentMoniker": "LoginForm\\UserProfile.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\UserProfile.cs",
+              "RelativeToolTip": "LoginForm\\UserProfile.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:16:30.249Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\UserProfile.cs",
+              "RelativeDocumentMoniker": "LoginForm\\UserProfile.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\UserProfile.cs [Design]",
+              "RelativeToolTip": "LoginForm\\UserProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:52:57.169Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PremiumProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumProfile.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumProfile.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumProfile.cs [Design]",
+              "RelativeToolTip": "LoginForm\\PremiumProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:41:42.636Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentValidation.Designer.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PaymentValidation.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PaymentValidation.Designer.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PaymentValidation.Designer.cs",
+              "RelativeToolTip": "LoginForm\\PaymentValidation.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:55:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumPlan.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumPlan.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumPlan.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumPlan.cs*",
+              "RelativeToolTip": "LoginForm\\PremiumPlan.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAewD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:53:29.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PremiumPlan.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumPlan.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumPlan.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumPlan.cs [Design]*",
+              "RelativeToolTip": "LoginForm\\PremiumPlan.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:53:26.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Total Payment.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Total Payment.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Total Payment.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Total Payment.cs",
+              "RelativeToolTip": "LoginForm\\Total Payment.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:51:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserMainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\UserMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\UserMainForm.Designer.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\UserMainForm.Designer.cs",
+              "RelativeToolTip": "LoginForm\\UserMainForm.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwB8AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:26:32.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PremiumProfile.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumProfile.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumProfile.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumProfile.cs",
+              "RelativeToolTip": "LoginForm\\PremiumProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:45:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserMainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\UserMainForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\UserMainForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\UserMainForm.cs [Design]",
+              "RelativeToolTip": "LoginForm\\UserMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:11:52.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Program.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Program.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Program.cs",
+              "RelativeToolTip": "LoginForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:41:31.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PremiumMainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumMainForm.Designer.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumMainForm.Designer.cs",
+              "RelativeToolTip": "LoginForm\\PremiumMainForm.Designer.cs",
+              "ViewState": "AgIAAEUDAAAAAAAAAAAAwEcDAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:42:36.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\RegistrationForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "LoginForm\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:16:43.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMainForm.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\UserMainForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\UserMainForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\UserMainForm.cs",
+              "RelativeToolTip": "LoginForm\\UserMainForm.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAnwM4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:20:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PremiumProfile.Designer.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumProfile.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumProfile.Designer.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumProfile.Designer.cs",
+              "RelativeToolTip": "LoginForm\\PremiumProfile.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAArwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:26:32.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PremiumUser.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumUser.cs",
+              "RelativeDocumentMoniker": "LoginForm\\PremiumUser.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\PremiumUser.cs",
+              "RelativeToolTip": "LoginForm\\PremiumUser.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:09:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserProfile.Designer.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\UserProfile.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\UserProfile.Designer.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\UserProfile.Designer.cs",
+              "RelativeToolTip": "LoginForm\\UserProfile.Designer.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAYwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:19:55.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Profile.Designer.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Profile.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Profile.Designer.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Profile.Designer.cs",
+              "RelativeToolTip": "LoginForm\\Profile.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:38:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Form1.Designer.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.Designer.cs",
+              "RelativeToolTip": "LoginForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:48:37.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Library.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Library.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Library.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Library.cs [Design]",
+              "RelativeToolTip": "LoginForm\\Library.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:25:07.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bjezsrcu..sql",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\bjezsrcu..sql",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\bjezsrcu..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-30T07:34:56.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\AdminForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\AdminForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\AdminForm.cs",
+              "RelativeToolTip": "LoginForm\\AdminForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:23:26.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\AdminForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\AdminForm.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\AdminForm.cs [Design]",
+              "RelativeToolTip": "LoginForm\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:21:01.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "nfpugpel..sql",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\nfpugpel..sql",
+              "ToolTip": "nfpugpel..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-29T17:41:18.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Form1.cs",
+              "ToolTip": "D:\\Music Management System\\LoginForm\\LoginForm\\Form1.cs [Design]",
+              "RelativeToolTip": "LoginForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:33:41.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
